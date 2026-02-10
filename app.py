@@ -37,7 +37,7 @@ st.markdown('---')
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('data/recruitment_data.csv')
+    df = pd.read_csv('recruitment_data.csv')
     df['Application_Date'] = pd.to_datetime(df['Application_Date'])
     df['Interview_Date'] = pd.to_datetime(df['Interview_Date'])
     return df
