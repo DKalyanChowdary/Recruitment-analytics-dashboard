@@ -240,10 +240,7 @@ try:
 
 except FileNotFoundError:
     st.error("❌ Data file not found! Please ensure 'data/recruitment_data.csv' exists.")
-    st.info("Run `python generate_data.py` first to create the dataset.")
-except Exception as e:
-    st.error(f"An error occurred: {str(e)}")
-
+    st.stop()
 # Footer
 st.markdown('---')
 st.markdown("""
