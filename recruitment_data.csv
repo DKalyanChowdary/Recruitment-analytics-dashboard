@@ -1,0 +1,501 @@
+Candidate_ID,Candidate_Name,Job_Title,Department,Source,Location,Experience_Years,Education,Application_Date,Interview_Date,Screening_Score,Technical_Score,HR_Score,Status,Salary_Offered_LPA,Gender,Time_to_Hire_Days,Cost_Per_Hire_INR
+CND0001,Candidate_1,Business Analyst,Analytics,Campus Hiring,Pune,13,BCA,2024-11-23,2024-05-23,50,70,84,Hired,8,Male,1,8000
+CND0002,Candidate_2,HR Manager,Marketing,Consultancy,Pune,0,MCA,2024-02-27,2024-04-11,60,49,66,Rejected,11,Male,44,50000
+CND0003,Candidate_3,Marketing Executive,Marketing,LinkedIn,Mumbai,7,M.Sc,2024-01-13,2024-11-03,52,44,83,In Process,6,Female,295,15000
+CND0004,Candidate_4,Business Analyst,Design,LinkedIn,Mumbai,2,B.Sc,2024-05-20,2024-05-25,72,75,73,Rejected,4,Female,5,15000
+CND0005,Candidate_5,Product Manager,Analytics,LinkedIn,Hyderabad,2,M.Sc,2024-05-05,2024-01-30,75,70,81,Hired,6,Male,1,15000
+CND0006,Candidate_6,UI/UX Designer,Engineering,Employee Referral,Pune,5,B.Tech,2024-04-24,2024-03-06,53,70,65,Hired,3,Female,1,25000
+CND0007,Candidate_7,Marketing Executive,Design,Company Website,Pune,12,BCA,2024-03-12,2024-11-11,67,70,65,Hired,21,Male,244,5000
+CND0008,Candidate_8,Marketing Executive,Product,Employee Referral,Delhi NCR,7,M.Tech,2024-02-22,2024-08-20,55,78,94,Rejected,12,Male,180,25000
+CND0009,Candidate_9,Business Analyst,Design,Company Website,Mumbai,12,M.Sc,2024-12-12,2024-07-05,84,78,72,In Process,23,Female,1,5000
+CND0010,Candidate_10,Data Analyst,Data Science,Employee Referral,Pune,14,B.Sc,2024-10-06,2024-06-19,71,89,96,Hired,17,Female,1,25000
+CND0011,Candidate_11,Product Manager,Engineering,Employee Referral,Chennai,8,B.Tech,2024-02-14,2024-08-21,92,74,89,In Process,24,Female,189,25000
+CND0012,Candidate_12,Business Analyst,Data Science,Campus Hiring,Hyderabad,8,MBA,2024-10-29,2024-11-16,64,40,61,Offer Declined,21,Male,18,8000
+CND0013,Candidate_13,Product Manager,Analytics,Indeed,Chennai,3,B.Tech,2024-08-04,2024-09-28,71,63,61,Rejected,18,Male,55,10000
+CND0014,Candidate_14,Product Manager,Sales,Employee Referral,Chennai,13,B.Tech,2024-01-17,2024-03-10,86,96,95,In Process,23,Female,53,25000
+CND0015,Candidate_15,UI/UX Designer,Data Science,Campus Hiring,Hyderabad,4,BCA,2024-01-16,2024-07-26,91,75,96,Rejected,24,Female,192,8000
+CND0016,Candidate_16,Marketing Executive,Product,Naukri.com,Chennai,1,M.Tech,2024-02-17,2024-11-01,61,45,64,Rejected,6,Male,258,12000
+CND0017,Candidate_17,HR Manager,Design,Indeed,Pune,10,MBA,2024-04-21,2024-04-17,96,80,90,Rejected,4,Female,1,10000
+CND0018,Candidate_18,UI/UX Designer,Sales,Employee Referral,Mumbai,8,MCA,2024-04-29,2024-05-20,98,93,68,Rejected,15,Male,21,25000
+CND0019,Candidate_19,UI/UX Designer,Design,Consultancy,Hyderabad,7,MCA,2024-09-15,2024-02-02,91,85,75,Hired,3,Female,1,50000
+CND0020,Candidate_20,Product Manager,Data Science,LinkedIn,Delhi NCR,2,M.Sc,2024-11-04,2025-01-07,87,99,78,Rejected,19,Female,64,15000
+CND0021,Candidate_21,Sales Executive,Design,Naukri.com,Chennai,10,B.Tech,2024-01-14,2024-08-21,67,83,71,Rejected,15,Male,220,12000
+CND0022,Candidate_22,Marketing Executive,Analytics,Naukri.com,Hyderabad,11,BCA,2024-10-14,2024-01-11,94,99,89,Rejected,6,Male,1,12000
+CND0023,Candidate_23,Data Analyst,Sales,Campus Hiring,Bangalore,12,BCA,2024-04-11,2024-10-03,84,96,70,Hired,9,Female,175,8000
+CND0024,Candidate_24,UI/UX Designer,Analytics,Naukri.com,Bangalore,8,MCA,2024-11-28,2024-10-12,79,70,87,Offer Declined,19,Female,1,12000
+CND0025,Candidate_25,HR Manager,Data Science,Indeed,Mumbai,2,M.Sc,2024-12-25,2024-12-27,73,59,69,In Process,11,Female,2,10000
+CND0026,Candidate_26,Sales Executive,Analytics,Employee Referral,Pune,8,M.Sc,2024-10-06,2025-01-13,91,63,78,Rejected,6,Female,99,25000
+CND0027,Candidate_27,Sales Executive,Product,Employee Referral,Mumbai,1,M.Sc,2024-08-02,2024-12-19,79,70,65,Hired,21,Female,139,25000
+CND0028,Candidate_28,Data Analyst,Data Science,Consultancy,Mumbai,11,MBA,2024-04-22,2024-04-20,63,75,56,Offer Declined,3,Female,1,50000
+CND0029,Candidate_29,UI/UX Designer,Data Science,LinkedIn,Mumbai,9,M.Tech,2024-08-17,2024-07-15,55,60,77,In Process,12,Male,1,15000
+CND0030,Candidate_30,HR Manager,Data Science,Campus Hiring,Mumbai,8,MBA,2024-10-28,2024-08-18,52,69,77,In Process,6,Male,1,8000
+CND0031,Candidate_31,Marketing Executive,Engineering,LinkedIn,Delhi NCR,14,B.Sc,2024-05-22,2024-02-15,65,63,53,Rejected,11,Male,1,15000
+CND0032,Candidate_32,Software Engineer,Design,Naukri.com,Delhi NCR,7,B.Sc,2024-01-04,2024-12-16,56,83,71,Rejected,15,Male,347,12000
+CND0033,Candidate_33,HR Manager,Engineering,Consultancy,Hyderabad,8,M.Tech,2024-03-22,2024-06-28,63,81,65,Hired,16,Female,98,50000
+CND0034,Candidate_34,Data Analyst,Engineering,LinkedIn,Bangalore,4,MCA,2024-12-23,2024-11-25,58,70,94,Hired,12,Male,1,15000
+CND0035,Candidate_35,Sales Executive,Product,Indeed,Mumbai,10,M.Tech,2024-08-04,2024-06-19,64,61,52,In Process,8,Female,1,10000
+CND0036,Candidate_36,Marketing Executive,Sales,Employee Referral,Hyderabad,10,BCA,2024-06-23,2024-12-15,70,67,71,In Process,18,Female,175,25000
+CND0037,Candidate_37,HR Manager,Design,Naukri.com,Bangalore,1,B.Sc,2024-05-22,2024-03-14,84,46,93,Rejected,8,Female,1,12000
+CND0038,Candidate_38,Software Engineer,Analytics,Consultancy,Chennai,7,B.Tech,2024-03-20,2025-01-13,51,74,51,Offer Declined,19,Male,299,50000
+CND0039,Candidate_39,Software Engineer,Marketing,LinkedIn,Pune,11,B.Tech,2024-04-20,2024-06-12,76,94,73,Rejected,12,Male,53,15000
+CND0040,Candidate_40,Product Manager,Data Science,Campus Hiring,Delhi NCR,14,MCA,2024-06-21,2024-09-26,51,67,83,Rejected,20,Male,97,8000
+CND0041,Candidate_41,Product Manager,Analytics,Indeed,Chennai,5,BCA,2024-02-22,2024-06-17,84,53,76,Rejected,24,Male,116,10000
+CND0042,Candidate_42,Business Analyst,Data Science,Indeed,Bangalore,7,MBA,2024-02-17,2024-12-17,67,95,90,Offer Declined,20,Male,304,10000
+CND0043,Candidate_43,Data Analyst,Product,LinkedIn,Chennai,10,BCA,2024-07-13,2024-08-07,63,70,65,Hired,5,Female,25,15000
+CND0044,Candidate_44,UI/UX Designer,Data Science,Employee Referral,Pune,4,B.Tech,2024-02-19,2024-06-26,69,55,57,Offer Declined,22,Female,128,25000
+CND0045,Candidate_45,HR Manager,Engineering,LinkedIn,Bangalore,9,B.Tech,2024-07-02,2024-08-04,67,55,72,In Process,23,Female,33,15000
+CND0046,Candidate_46,HR Manager,Design,Naukri.com,Chennai,1,B.Sc,2024-06-25,2025-01-01,59,93,87,Hired,17,Female,190,12000
+CND0047,Candidate_47,UI/UX Designer,Marketing,LinkedIn,Delhi NCR,5,BCA,2024-11-05,2024-06-10,74,70,55,Rejected,17,Male,1,15000
+CND0048,Candidate_48,Business Analyst,HR,Indeed,Delhi NCR,4,BCA,2024-05-15,2024-10-20,51,81,71,Offer Declined,6,Female,158,10000
+CND0049,Candidate_49,Sales Executive,Data Science,Consultancy,Hyderabad,11,B.Tech,2024-01-23,2024-03-16,74,64,74,Rejected,11,Female,53,50000
+CND0050,Candidate_50,Sales Executive,Analytics,LinkedIn,Chennai,12,MBA,2024-08-23,2024-04-18,82,52,67,Offer Declined,21,Male,1,15000
+CND0051,Candidate_51,Business Analyst,Engineering,Employee Referral,Mumbai,11,MCA,2024-10-01,2024-08-13,85,45,66,Offer Declined,19,Female,1,25000
+CND0052,Candidate_52,Sales Executive,HR,Consultancy,Chennai,4,M.Sc,2024-03-04,2024-12-16,80,83,61,Rejected,13,Male,287,50000
+CND0053,Candidate_53,Product Manager,Marketing,Campus Hiring,Bangalore,12,MCA,2024-07-12,2024-07-23,63,48,55,Rejected,11,Female,11,8000
+CND0054,Candidate_54,HR Manager,HR,Company Website,Bangalore,0,BCA,2024-02-10,2024-12-22,50,84,75,Offer Declined,12,Other,316,5000
+CND0055,Candidate_55,Business Analyst,Engineering,LinkedIn,Chennai,1,MCA,2024-10-09,2024-04-09,95,75,76,In Process,20,Male,1,15000
+CND0056,Candidate_56,HR Manager,Design,Employee Referral,Pune,7,B.Tech,2024-05-30,2024-11-21,65,95,65,Hired,22,Female,175,25000
+CND0057,Candidate_57,UI/UX Designer,Design,Consultancy,Delhi NCR,12,B.Tech,2024-11-17,2024-10-28,95,82,68,Hired,15,Female,1,50000
+CND0058,Candidate_58,Software Engineer,Sales,Employee Referral,Bangalore,13,BCA,2024-11-12,2024-06-13,52,59,91,Rejected,10,Female,1,25000
+CND0059,Candidate_59,Product Manager,Design,Campus Hiring,Delhi NCR,12,BCA,2024-07-04,2024-08-05,84,57,50,Offer Declined,9,Male,32,8000
+CND0060,Candidate_60,Marketing Executive,Sales,Indeed,Bangalore,2,M.Sc,2024-10-22,2024-10-17,90,97,78,In Process,19,Female,1,10000
+CND0061,Candidate_61,Product Manager,HR,Employee Referral,Hyderabad,9,M.Sc,2024-04-08,2024-01-11,55,82,94,In Process,23,Male,1,25000
+CND0062,Candidate_62,Business Analyst,Product,Consultancy,Mumbai,2,B.Sc,2024-12-26,2024-06-14,74,96,98,Hired,17,Male,1,50000
+CND0063,Candidate_63,Marketing Executive,Analytics,Employee Referral,Bangalore,7,BCA,2024-02-05,2024-06-05,62,60,84,Rejected,22,Male,121,25000
+CND0064,Candidate_64,Software Engineer,Analytics,Employee Referral,Delhi NCR,7,MBA,2024-01-24,2024-04-27,83,43,89,Offer Declined,17,Female,94,25000
+CND0065,Candidate_65,Business Analyst,HR,Employee Referral,Hyderabad,1,MCA,2024-12-04,2024-08-18,57,89,65,Hired,3,Female,1,25000
+CND0066,Candidate_66,Data Analyst,Data Science,Naukri.com,Bangalore,7,BCA,2024-04-26,2024-11-02,70,72,84,Rejected,16,Female,190,12000
+CND0067,Candidate_67,HR Manager,Data Science,Naukri.com,Pune,10,M.Tech,2024-05-28,2024-11-16,83,70,97,Hired,7,Female,172,12000
+CND0068,Candidate_68,Software Engineer,Design,Indeed,Mumbai,12,B.Sc,2024-02-10,2024-12-11,53,46,94,In Process,13,Male,305,10000
+CND0069,Candidate_69,HR Manager,Analytics,LinkedIn,Bangalore,12,M.Tech,2024-04-29,2024-06-23,74,45,69,Offer Declined,18,Male,55,15000
+CND0070,Candidate_70,Sales Executive,Analytics,Employee Referral,Hyderabad,0,B.Tech,2024-02-21,2024-09-05,64,54,98,Rejected,4,Male,197,25000
+CND0071,Candidate_71,Data Analyst,Sales,Campus Hiring,Pune,5,M.Sc,2024-07-13,2024-08-24,53,57,62,Rejected,10,Male,42,8000
+CND0072,Candidate_72,Data Analyst,Product,LinkedIn,Chennai,7,MCA,2024-05-22,2024-08-24,94,71,87,Rejected,13,Male,94,15000
+CND0073,Candidate_73,Software Engineer,Engineering,Campus Hiring,Hyderabad,2,BCA,2024-08-20,2024-12-21,61,95,98,Offer Declined,20,Male,123,8000
+CND0074,Candidate_74,Data Analyst,Data Science,LinkedIn,Hyderabad,7,M.Tech,2024-11-21,2024-04-29,81,70,95,Hired,5,Male,1,15000
+CND0075,Candidate_75,Marketing Executive,Analytics,Indeed,Pune,11,MCA,2024-07-05,2024-09-28,81,59,98,Rejected,3,Male,85,10000
+CND0076,Candidate_76,Data Analyst,Sales,Employee Referral,Hyderabad,0,B.Tech,2024-03-24,2024-09-09,77,63,57,Rejected,13,Male,169,25000
+CND0077,Candidate_77,HR Manager,Marketing,Employee Referral,Pune,10,M.Sc,2024-07-08,2024-04-06,62,54,92,Offer Declined,18,Male,1,25000
+CND0078,Candidate_78,HR Manager,Sales,Company Website,Bangalore,10,MBA,2024-06-30,2024-12-13,80,87,69,Rejected,20,Female,166,5000
+CND0079,Candidate_79,Business Analyst,Data Science,Campus Hiring,Pune,8,B.Sc,2024-04-17,2024-02-23,63,70,82,Hired,18,Female,1,8000
+CND0080,Candidate_80,HR Manager,Data Science,LinkedIn,Pune,12,MCA,2024-12-09,2024-06-04,69,60,75,Rejected,12,Female,1,15000
+CND0081,Candidate_81,Business Analyst,Sales,LinkedIn,Mumbai,10,MCA,2024-05-16,2024-09-30,67,81,88,In Process,20,Male,137,15000
+CND0082,Candidate_82,HR Manager,Engineering,Naukri.com,Pune,12,MBA,2024-12-25,2024-12-15,78,70,70,Hired,8,Male,1,12000
+CND0083,Candidate_83,Marketing Executive,HR,Company Website,Pune,8,MCA,2024-12-15,2024-11-30,55,83,98,Offer Declined,21,Female,1,5000
+CND0084,Candidate_84,UI/UX Designer,Data Science,Consultancy,Chennai,4,B.Tech,2024-11-27,2024-11-23,81,95,91,Hired,6,Male,1,50000
+CND0085,Candidate_85,Business Analyst,Sales,Consultancy,Bangalore,9,B.Tech,2024-02-06,2024-06-30,78,53,92,Rejected,15,Male,145,50000
+CND0086,Candidate_86,Product Manager,Analytics,Naukri.com,Mumbai,3,MBA,2024-11-07,2024-02-27,92,96,90,Rejected,16,Male,1,12000
+CND0087,Candidate_87,Sales Executive,Sales,Naukri.com,Chennai,14,B.Sc,2024-11-21,2024-05-10,51,76,58,In Process,5,Male,1,12000
+CND0088,Candidate_88,Software Engineer,Product,Naukri.com,Delhi NCR,10,BCA,2024-03-28,2024-12-20,72,97,73,Rejected,12,Male,267,12000
+CND0089,Candidate_89,HR Manager,HR,Campus Hiring,Bangalore,5,M.Tech,2024-09-30,2024-06-17,68,60,86,Offer Declined,8,Male,1,8000
+CND0090,Candidate_90,Data Analyst,Marketing,Campus Hiring,Bangalore,11,BCA,2024-05-05,2024-05-05,80,57,98,In Process,3,Female,1,8000
+CND0091,Candidate_91,UI/UX Designer,Engineering,Indeed,Delhi NCR,6,MCA,2024-03-24,2024-04-21,54,44,90,Rejected,16,Male,28,10000
+CND0092,Candidate_92,HR Manager,Design,Indeed,Pune,4,M.Tech,2024-08-24,2024-03-26,68,42,66,In Process,10,Male,1,10000
+CND0093,Candidate_93,Data Analyst,Marketing,Naukri.com,Chennai,10,MBA,2024-07-13,2024-01-23,83,62,73,In Process,21,Female,1,12000
+CND0094,Candidate_94,Sales Executive,HR,Company Website,Hyderabad,12,MBA,2024-05-18,2024-02-03,59,70,70,Hired,16,Male,1,5000
+CND0095,Candidate_95,Sales Executive,HR,LinkedIn,Mumbai,9,B.Sc,2024-11-23,2024-05-15,74,76,88,Rejected,12,Male,1,15000
+CND0096,Candidate_96,Sales Executive,HR,Campus Hiring,Hyderabad,8,M.Tech,2024-12-18,2024-09-10,51,63,90,Offer Declined,19,Female,1,8000
+CND0097,Candidate_97,Data Analyst,Marketing,Company Website,Delhi NCR,2,B.Tech,2024-10-12,2024-11-18,60,88,88,Hired,11,Male,37,5000
+CND0098,Candidate_98,HR Manager,Analytics,Employee Referral,Bangalore,14,M.Tech,2024-04-22,2024-02-17,99,58,62,In Process,8,Male,1,25000
+CND0099,Candidate_99,Sales Executive,HR,Campus Hiring,Bangalore,6,MCA,2024-12-16,2024-08-31,80,90,60,Offer Declined,13,Male,1,8000
+CND0100,Candidate_100,Marketing Executive,Sales,Campus Hiring,Mumbai,9,B.Tech,2024-06-15,2024-08-10,64,70,95,Hired,9,Male,56,8000
+CND0101,Candidate_101,Business Analyst,Marketing,Indeed,Bangalore,9,M.Sc,2024-01-29,2024-11-28,58,60,68,In Process,19,Female,304,10000
+CND0102,Candidate_102,Data Analyst,Design,LinkedIn,Bangalore,10,M.Sc,2024-04-27,2024-10-31,72,51,60,Rejected,3,Female,187,15000
+CND0103,Candidate_103,Data Analyst,HR,LinkedIn,Mumbai,4,M.Sc,2024-01-17,2024-04-19,68,96,62,Rejected,24,Male,93,15000
+CND0104,Candidate_104,HR Manager,Sales,Consultancy,Chennai,13,MBA,2024-06-10,2025-01-12,58,80,95,Hired,7,Female,216,50000
+CND0105,Candidate_105,Data Analyst,Analytics,Consultancy,Chennai,6,M.Tech,2024-07-24,2025-01-01,84,72,94,Hired,11,Male,161,50000
+CND0106,Candidate_106,Data Analyst,Product,Consultancy,Mumbai,14,M.Sc,2024-05-17,2024-07-25,70,89,50,In Process,20,Male,69,50000
+CND0107,Candidate_107,Sales Executive,Analytics,Consultancy,Delhi NCR,1,BCA,2024-02-03,2024-09-20,58,92,89,In Process,23,Female,230,50000
+CND0108,Candidate_108,HR Manager,Design,Employee Referral,Bangalore,3,B.Sc,2024-04-18,2024-08-02,77,43,93,In Process,4,Male,106,25000
+CND0109,Candidate_109,Sales Executive,HR,Employee Referral,Bangalore,1,BCA,2024-10-17,2024-05-14,95,81,68,Rejected,13,Male,1,25000
+CND0110,Candidate_110,Business Analyst,Design,Campus Hiring,Delhi NCR,13,M.Sc,2024-06-10,2024-03-26,56,96,65,Hired,8,Male,1,8000
+CND0111,Candidate_111,UI/UX Designer,Marketing,Naukri.com,Chennai,12,B.Sc,2024-04-18,2024-12-11,65,46,57,In Process,10,Male,237,12000
+CND0112,Candidate_112,Business Analyst,Data Science,Indeed,Pune,12,MCA,2024-12-01,2024-12-28,65,70,65,Hired,6,Male,27,10000
+CND0113,Candidate_113,UI/UX Designer,HR,Indeed,Pune,11,BCA,2024-09-12,2024-01-13,82,94,94,Offer Declined,20,Female,1,10000
+CND0114,Candidate_114,Sales Executive,Data Science,Consultancy,Pune,6,M.Tech,2024-07-21,2024-03-05,53,72,61,In Process,13,Male,1,50000
+CND0115,Candidate_115,Business Analyst,Sales,Campus Hiring,Chennai,1,M.Tech,2024-11-25,2024-08-15,53,56,97,In Process,7,Male,1,8000
+CND0116,Candidate_116,HR Manager,Product,Company Website,Chennai,12,BCA,2024-08-22,2024-05-02,88,63,82,Offer Declined,17,Male,1,5000
+CND0117,Candidate_117,Software Engineer,Engineering,Naukri.com,Delhi NCR,13,M.Sc,2024-03-14,2024-04-10,89,73,94,Hired,20,Female,27,12000
+CND0118,Candidate_118,Sales Executive,Design,Campus Hiring,Bangalore,10,M.Tech,2024-05-15,2025-01-01,66,67,75,In Process,4,Female,231,8000
+CND0119,Candidate_119,UI/UX Designer,Analytics,Naukri.com,Delhi NCR,0,MCA,2024-03-12,2024-10-02,86,97,88,Rejected,24,Female,204,12000
+CND0120,Candidate_120,Marketing Executive,Product,Naukri.com,Delhi NCR,8,B.Tech,2024-05-06,2024-09-04,88,82,77,Offer Declined,13,Female,121,12000
+CND0121,Candidate_121,UI/UX Designer,HR,Naukri.com,Chennai,0,M.Sc,2024-10-14,2024-02-05,78,80,54,Rejected,15,Female,1,12000
+CND0122,Candidate_122,Marketing Executive,Data Science,Campus Hiring,Pune,7,MCA,2024-10-02,2024-10-22,85,78,57,In Process,6,Male,20,8000
+CND0123,Candidate_123,Data Analyst,Analytics,Consultancy,Hyderabad,14,B.Sc,2024-05-14,2024-05-17,87,61,74,Offer Declined,24,Male,3,50000
+CND0124,Candidate_124,Business Analyst,Data Science,Indeed,Bangalore,1,MCA,2024-10-26,2024-03-13,88,88,76,Hired,9,Female,1,10000
+CND0125,Candidate_125,Marketing Executive,Marketing,Indeed,Chennai,11,M.Sc,2024-08-07,2024-08-31,99,56,95,Rejected,13,Other,24,10000
+CND0126,Candidate_126,UI/UX Designer,Data Science,Consultancy,Pune,7,B.Sc,2024-10-25,2024-03-19,86,73,72,In Process,24,Female,1,50000
+CND0127,Candidate_127,Data Analyst,Marketing,Naukri.com,Hyderabad,12,M.Sc,2024-07-23,2024-09-04,84,45,79,Rejected,6,Male,43,12000
+CND0128,Candidate_128,Software Engineer,Sales,Company Website,Hyderabad,2,M.Tech,2024-07-04,2024-12-17,56,85,94,Rejected,17,Male,166,5000
+CND0129,Candidate_129,HR Manager,Analytics,LinkedIn,Chennai,5,B.Tech,2024-04-22,2024-10-08,76,70,96,Hired,3,Male,169,15000
+CND0130,Candidate_130,HR Manager,Analytics,Campus Hiring,Mumbai,2,M.Sc,2024-03-11,2024-10-23,77,73,72,Hired,5,Female,226,8000
+CND0131,Candidate_131,HR Manager,Engineering,LinkedIn,Bangalore,13,M.Sc,2024-09-17,2024-11-10,71,40,98,Offer Declined,16,Male,54,15000
+CND0132,Candidate_132,Marketing Executive,HR,Consultancy,Hyderabad,6,M.Tech,2024-09-09,2024-06-21,63,49,96,Rejected,8,Male,1,50000
+CND0133,Candidate_133,Software Engineer,Marketing,Company Website,Chennai,9,MBA,2024-02-16,2024-08-24,56,70,69,Hired,20,Female,190,5000
+CND0134,Candidate_134,Marketing Executive,Engineering,Campus Hiring,Chennai,8,M.Tech,2024-01-25,2024-11-19,86,44,67,Rejected,3,Male,299,8000
+CND0135,Candidate_135,Business Analyst,Data Science,Consultancy,Pune,1,B.Sc,2024-02-26,2025-01-13,71,41,67,Rejected,8,Female,322,50000
+CND0136,Candidate_136,Marketing Executive,Data Science,Naukri.com,Mumbai,14,M.Tech,2024-03-19,2024-09-25,54,70,65,Hired,8,Male,190,12000
+CND0137,Candidate_137,Software Engineer,Engineering,Indeed,Bangalore,11,M.Tech,2024-11-17,2024-08-16,51,87,53,Rejected,23,Male,1,10000
+CND0138,Candidate_138,Software Engineer,Analytics,LinkedIn,Delhi NCR,11,B.Tech,2024-03-22,2024-10-17,76,96,79,Rejected,18,Male,209,15000
+CND0139,Candidate_139,Business Analyst,Data Science,Employee Referral,Pune,14,M.Tech,2024-12-14,2024-08-26,70,41,82,Rejected,7,Female,1,25000
+CND0140,Candidate_140,Software Engineer,Design,Employee Referral,Hyderabad,13,M.Sc,2024-08-04,2024-04-01,87,49,85,In Process,19,Male,1,25000
+CND0141,Candidate_141,UI/UX Designer,Sales,Company Website,Hyderabad,4,B.Tech,2024-11-01,2024-09-10,64,73,67,Hired,12,Male,1,5000
+CND0142,Candidate_142,Software Engineer,Sales,Naukri.com,Pune,12,BCA,2024-02-02,2024-08-28,70,55,86,Rejected,23,Female,208,12000
+CND0143,Candidate_143,HR Manager,Design,LinkedIn,Chennai,5,MBA,2024-07-16,2024-05-22,59,87,68,Rejected,20,Male,1,15000
+CND0144,Candidate_144,UI/UX Designer,Engineering,Naukri.com,Hyderabad,3,B.Tech,2024-07-14,2024-05-16,72,90,96,Rejected,9,Female,1,12000
+CND0145,Candidate_145,UI/UX Designer,Design,LinkedIn,Mumbai,3,B.Sc,2024-11-01,2024-12-02,88,78,77,In Process,5,Female,31,15000
+CND0146,Candidate_146,Business Analyst,Marketing,Company Website,Bangalore,3,BCA,2024-08-27,2024-05-31,54,61,89,Rejected,15,Male,1,5000
+CND0147,Candidate_147,Product Manager,Marketing,Company Website,Mumbai,1,B.Tech,2024-09-27,2024-10-03,50,51,69,Offer Declined,17,Female,6,5000
+CND0148,Candidate_148,Product Manager,Engineering,Employee Referral,Hyderabad,3,B.Tech,2024-05-08,2024-09-15,62,63,98,In Process,22,Male,130,25000
+CND0149,Candidate_149,Software Engineer,Design,Naukri.com,Delhi NCR,10,MBA,2024-10-10,2024-11-26,70,86,82,Rejected,21,Female,47,12000
+CND0150,Candidate_150,UI/UX Designer,Marketing,Campus Hiring,Bangalore,0,M.Sc,2024-01-06,2024-05-12,75,79,61,In Process,5,Male,127,8000
+CND0151,Candidate_151,Product Manager,Analytics,Employee Referral,Bangalore,11,B.Sc,2024-12-14,2024-05-30,99,77,64,Rejected,6,Female,1,25000
+CND0152,Candidate_152,Product Manager,Design,Naukri.com,Pune,5,MCA,2024-02-28,2024-08-23,94,99,90,Rejected,7,Male,177,12000
+CND0153,Candidate_153,Software Engineer,Analytics,Employee Referral,Pune,0,MCA,2024-12-15,2024-02-19,70,98,88,Hired,3,Female,1,25000
+CND0154,Candidate_154,Product Manager,Marketing,Campus Hiring,Delhi NCR,9,B.Tech,2024-10-01,2025-01-10,67,70,65,Hired,6,Male,101,8000
+CND0155,Candidate_155,Marketing Executive,Sales,Indeed,Chennai,5,M.Tech,2024-05-16,2024-06-05,86,74,78,Offer Declined,14,Male,20,10000
+CND0156,Candidate_156,Data Analyst,Marketing,Indeed,Bangalore,0,B.Sc,2024-11-24,2024-05-10,94,90,90,In Process,12,Male,1,10000
+CND0157,Candidate_157,Business Analyst,Analytics,Indeed,Delhi NCR,5,BCA,2024-06-23,2024-05-29,81,88,59,Offer Declined,23,Male,1,10000
+CND0158,Candidate_158,Data Analyst,Product,Indeed,Pune,9,M.Tech,2024-02-27,2024-06-30,85,71,51,Rejected,22,Female,124,10000
+CND0159,Candidate_159,Software Engineer,HR,Consultancy,Pune,7,M.Tech,2024-05-30,2024-06-22,66,46,60,Rejected,15,Male,23,50000
+CND0160,Candidate_160,HR Manager,Data Science,LinkedIn,Bangalore,10,B.Sc,2024-08-10,2024-10-13,84,70,65,Hired,16,Female,64,15000
+CND0161,Candidate_161,Business Analyst,Design,Consultancy,Mumbai,1,M.Sc,2024-03-21,2024-02-21,98,59,59,In Process,7,Female,1,50000
+CND0162,Candidate_162,Software Engineer,Product,Consultancy,Hyderabad,1,B.Tech,2024-08-20,2024-03-21,60,65,63,Rejected,6,Female,1,50000
+CND0163,Candidate_163,UI/UX Designer,Marketing,Consultancy,Pune,13,B.Tech,2024-01-02,2024-03-28,70,43,67,Offer Declined,16,Male,86,50000
+CND0164,Candidate_164,HR Manager,Sales,Indeed,Chennai,14,B.Tech,2024-05-14,2024-05-08,75,85,65,Hired,12,Male,1,10000
+CND0165,Candidate_165,Data Analyst,Engineering,Campus Hiring,Chennai,12,B.Tech,2024-09-13,2024-07-25,53,91,88,Rejected,19,Female,1,8000
+CND0166,Candidate_166,Software Engineer,Marketing,Company Website,Pune,11,MCA,2024-04-01,2024-12-31,83,61,77,In Process,12,Male,274,5000
+CND0167,Candidate_167,UI/UX Designer,Sales,Company Website,Mumbai,3,B.Tech,2024-09-16,2024-03-29,97,54,52,Rejected,9,Male,1,5000
+CND0168,Candidate_168,Business Analyst,HR,LinkedIn,Mumbai,10,MCA,2024-02-24,2025-01-06,67,95,69,Rejected,18,Female,317,15000
+CND0169,Candidate_169,Business Analyst,Marketing,Indeed,Delhi NCR,2,MCA,2024-11-16,2024-04-29,89,79,55,In Process,3,Female,1,10000
+CND0170,Candidate_170,Sales Executive,Analytics,Indeed,Chennai,3,M.Sc,2024-06-01,2024-02-12,84,70,76,Hired,19,Female,1,10000
+CND0171,Candidate_171,UI/UX Designer,Engineering,Indeed,Delhi NCR,12,B.Tech,2024-11-23,2024-08-10,90,54,51,In Process,23,Male,1,10000
+CND0172,Candidate_172,Marketing Executive,Sales,Employee Referral,Chennai,11,MBA,2024-09-16,2024-08-06,78,61,78,Rejected,11,Female,1,25000
+CND0173,Candidate_173,Product Manager,Sales,Naukri.com,Hyderabad,6,BCA,2024-11-07,2024-06-28,78,91,87,Offer Declined,8,Male,1,12000
+CND0174,Candidate_174,HR Manager,Sales,Employee Referral,Hyderabad,12,M.Tech,2024-04-11,2024-10-14,87,67,52,In Process,21,Male,186,25000
+CND0175,Candidate_175,UI/UX Designer,HR,Naukri.com,Bangalore,10,MCA,2024-03-19,2024-09-05,91,53,65,Rejected,15,Female,170,12000
+CND0176,Candidate_176,Sales Executive,Marketing,Indeed,Delhi NCR,0,B.Sc,2024-07-10,2024-08-10,70,66,79,Rejected,5,Male,31,10000
+CND0177,Candidate_177,Product Manager,HR,Indeed,Pune,5,B.Sc,2024-03-23,2024-02-11,91,80,89,Offer Declined,9,Male,1,10000
+CND0178,Candidate_178,Product Manager,Design,Employee Referral,Delhi NCR,14,BCA,2024-10-03,2024-04-25,62,79,51,Rejected,24,Male,1,25000
+CND0179,Candidate_179,Software Engineer,Data Science,Employee Referral,Pune,14,B.Sc,2024-09-28,2024-08-13,98,97,66,Offer Declined,11,Female,1,25000
+CND0180,Candidate_180,Product Manager,Data Science,Naukri.com,Mumbai,2,MBA,2024-01-01,2024-07-28,90,70,90,Hired,24,Female,209,12000
+CND0181,Candidate_181,Marketing Executive,Design,Company Website,Delhi NCR,10,B.Sc,2024-11-02,2024-11-05,66,65,61,Rejected,7,Female,3,5000
+CND0182,Candidate_182,Business Analyst,Marketing,Naukri.com,Mumbai,9,M.Tech,2024-06-14,2025-01-01,58,88,84,In Process,12,Female,201,12000
+CND0183,Candidate_183,Sales Executive,Analytics,Employee Referral,Hyderabad,6,M.Tech,2024-09-07,2024-01-21,90,41,92,Offer Declined,19,Male,1,25000
+CND0184,Candidate_184,Product Manager,HR,Campus Hiring,Hyderabad,9,MCA,2024-01-10,2024-10-31,50,64,50,Rejected,14,Male,295,8000
+CND0185,Candidate_185,Software Engineer,Engineering,Employee Referral,Bangalore,1,B.Tech,2024-02-27,2024-07-23,51,95,94,In Process,18,Male,147,25000
+CND0186,Candidate_186,Marketing Executive,Sales,Campus Hiring,Delhi NCR,13,M.Sc,2024-07-04,2024-09-11,97,42,64,Rejected,5,Male,69,8000
+CND0187,Candidate_187,Data Analyst,Sales,LinkedIn,Mumbai,1,MBA,2024-06-06,2024-01-14,78,70,75,Hired,24,Male,1,15000
+CND0188,Candidate_188,Business Analyst,Marketing,Employee Referral,Pune,12,MCA,2024-05-02,2024-07-09,82,83,86,In Process,11,Female,68,25000
+CND0189,Candidate_189,Business Analyst,Analytics,LinkedIn,Hyderabad,3,MBA,2024-01-30,2024-06-11,59,72,70,In Process,17,Male,133,15000
+CND0190,Candidate_190,Sales Executive,Data Science,Company Website,Hyderabad,0,B.Tech,2024-05-03,2024-07-28,99,81,98,Offer Declined,7,Male,86,5000
+CND0191,Candidate_191,Business Analyst,Data Science,Naukri.com,Pune,2,B.Sc,2024-10-17,2024-08-12,89,91,80,Rejected,15,Male,1,12000
+CND0192,Candidate_192,Product Manager,Sales,Campus Hiring,Mumbai,12,B.Sc,2024-02-10,2024-10-12,70,74,74,Hired,16,Male,245,8000
+CND0193,Candidate_193,Software Engineer,Marketing,Naukri.com,Mumbai,8,M.Sc,2024-02-13,2024-10-16,77,70,72,Hired,22,Female,246,12000
+CND0194,Candidate_194,Business Analyst,HR,LinkedIn,Delhi NCR,6,B.Tech,2024-09-05,2024-11-14,60,78,73,Rejected,17,Male,70,15000
+CND0195,Candidate_195,Business Analyst,Data Science,Campus Hiring,Delhi NCR,14,MCA,2024-02-05,2024-05-02,83,91,87,Rejected,18,Male,87,8000
+CND0196,Candidate_196,Data Analyst,HR,Naukri.com,Chennai,6,M.Sc,2024-09-29,2024-09-16,57,62,77,In Process,15,Female,1,12000
+CND0197,Candidate_197,Data Analyst,Analytics,Employee Referral,Chennai,12,B.Tech,2024-03-05,2024-05-02,71,64,70,Rejected,19,Male,58,25000
+CND0198,Candidate_198,HR Manager,Data Science,Indeed,Bangalore,12,BCA,2024-03-06,2024-05-29,57,98,92,Offer Declined,10,Male,84,10000
+CND0199,Candidate_199,Marketing Executive,Data Science,LinkedIn,Hyderabad,10,M.Tech,2024-12-03,2024-08-21,98,89,67,Offer Declined,23,Male,1,15000
+CND0200,Candidate_200,Product Manager,Product,Naukri.com,Delhi NCR,3,M.Sc,2024-08-31,2024-09-15,64,82,85,Rejected,4,Female,15,12000
+CND0201,Candidate_201,Business Analyst,Data Science,LinkedIn,Mumbai,1,M.Sc,2024-10-08,2024-01-25,66,58,84,Offer Declined,7,Other,1,15000
+CND0202,Candidate_202,UI/UX Designer,Design,Consultancy,Pune,14,MCA,2024-03-25,2024-07-28,72,44,94,In Process,8,Female,125,50000
+CND0203,Candidate_203,Business Analyst,Engineering,LinkedIn,Mumbai,13,MBA,2024-05-15,2024-07-01,73,90,58,Rejected,14,Male,47,15000
+CND0204,Candidate_204,Software Engineer,Design,Campus Hiring,Hyderabad,3,BCA,2024-09-27,2024-12-18,94,70,87,Hired,20,Female,82,8000
+CND0205,Candidate_205,HR Manager,Marketing,Consultancy,Chennai,5,MCA,2024-11-06,2024-12-23,68,95,79,Rejected,24,Male,47,50000
+CND0206,Candidate_206,Marketing Executive,Marketing,Campus Hiring,Mumbai,10,B.Tech,2024-08-04,2024-08-05,54,51,93,Rejected,24,Male,1,8000
+CND0207,Candidate_207,UI/UX Designer,HR,Indeed,Bangalore,10,B.Tech,2024-04-18,2025-01-15,81,49,83,Offer Declined,3,Male,272,10000
+CND0208,Candidate_208,HR Manager,Design,Consultancy,Hyderabad,2,B.Tech,2024-10-03,2024-04-04,93,47,81,Rejected,19,Male,1,50000
+CND0209,Candidate_209,Sales Executive,Design,Employee Referral,Chennai,0,B.Tech,2024-12-19,2024-09-06,50,63,52,Offer Declined,13,Male,1,25000
+CND0210,Candidate_210,Marketing Executive,Design,LinkedIn,Pune,13,MBA,2024-04-12,2024-03-16,72,99,52,In Process,12,Female,1,15000
+CND0211,Candidate_211,Business Analyst,Analytics,Naukri.com,Chennai,11,BCA,2024-12-31,2024-11-24,86,70,77,Hired,21,Female,1,12000
+CND0212,Candidate_212,Business Analyst,Data Science,Company Website,Bangalore,7,B.Sc,2024-06-08,2024-10-10,57,80,93,Offer Declined,16,Male,124,5000
+CND0213,Candidate_213,Marketing Executive,Engineering,LinkedIn,Hyderabad,11,M.Tech,2024-07-23,2024-01-24,62,75,64,Rejected,12,Male,1,15000
+CND0214,Candidate_214,Business Analyst,HR,LinkedIn,Pune,12,MBA,2024-12-09,2024-07-30,57,76,90,Rejected,17,Male,1,15000
+CND0215,Candidate_215,Product Manager,Design,Indeed,Bangalore,4,MBA,2024-11-28,2024-11-09,72,60,72,In Process,21,Male,1,10000
+CND0216,Candidate_216,Marketing Executive,Design,Employee Referral,Chennai,14,B.Sc,2024-07-10,2024-10-25,92,70,89,Hired,6,Female,107,25000
+CND0217,Candidate_217,HR Manager,Product,Company Website,Bangalore,4,B.Sc,2024-08-12,2024-12-15,50,94,60,Rejected,4,Male,125,5000
+CND0218,Candidate_218,Marketing Executive,HR,Consultancy,Hyderabad,10,M.Tech,2024-09-21,2024-01-24,94,48,97,Rejected,11,Female,1,50000
+CND0219,Candidate_219,UI/UX Designer,Design,Consultancy,Delhi NCR,3,M.Tech,2024-08-19,2024-02-22,73,86,81,Rejected,12,Male,1,50000
+CND0220,Candidate_220,Business Analyst,HR,Consultancy,Bangalore,5,B.Sc,2024-03-02,2024-12-05,84,54,85,Offer Declined,13,Male,278,50000
+CND0221,Candidate_221,Product Manager,Data Science,Campus Hiring,Bangalore,2,B.Tech,2024-05-06,2024-08-17,73,87,82,Rejected,16,Male,103,8000
+CND0222,Candidate_222,Product Manager,Product,Campus Hiring,Chennai,8,MBA,2024-04-25,2024-03-20,66,85,73,Hired,9,Male,1,8000
+CND0223,Candidate_223,Sales Executive,HR,Naukri.com,Chennai,4,MCA,2024-02-02,2024-09-03,54,79,88,Rejected,17,Male,214,12000
+CND0224,Candidate_224,HR Manager,Engineering,Company Website,Pune,2,M.Tech,2024-06-22,2024-04-13,69,57,83,Offer Declined,24,Female,1,5000
+CND0225,Candidate_225,Data Analyst,Engineering,Consultancy,Chennai,10,M.Tech,2024-01-11,2024-02-05,70,81,77,Hired,21,Male,25,50000
+CND0226,Candidate_226,Data Analyst,Marketing,Campus Hiring,Mumbai,0,B.Sc,2024-10-28,2024-05-23,89,99,86,Hired,24,Female,1,8000
+CND0227,Candidate_227,Marketing Executive,Product,Naukri.com,Hyderabad,9,BCA,2024-10-10,2024-07-23,80,70,65,Hired,17,Male,1,12000
+CND0228,Candidate_228,Sales Executive,Product,Employee Referral,Hyderabad,11,MCA,2024-04-27,2024-06-26,95,70,65,Hired,10,Male,60,25000
+CND0229,Candidate_229,Software Engineer,Marketing,Naukri.com,Delhi NCR,5,MCA,2024-10-28,2024-04-28,85,51,86,In Process,13,Male,1,12000
+CND0230,Candidate_230,Marketing Executive,HR,Campus Hiring,Delhi NCR,14,M.Tech,2024-04-22,2024-08-30,60,41,50,In Process,11,Female,130,8000
+CND0231,Candidate_231,Sales Executive,Product,Indeed,Hyderabad,1,B.Tech,2024-01-04,2024-06-26,64,46,50,Rejected,17,Male,174,10000
+CND0232,Candidate_232,HR Manager,Engineering,Indeed,Delhi NCR,12,BCA,2024-02-06,2024-07-01,68,55,96,In Process,3,Female,146,10000
+CND0233,Candidate_233,HR Manager,Engineering,Consultancy,Pune,2,MCA,2024-12-28,2024-07-23,56,42,69,Rejected,3,Male,1,50000
+CND0234,Candidate_234,HR Manager,Design,Indeed,Chennai,0,M.Tech,2024-11-19,2024-06-01,77,84,68,Offer Declined,21,Female,1,10000
+CND0235,Candidate_235,HR Manager,Data Science,Consultancy,Hyderabad,8,MCA,2024-01-31,2024-08-13,92,42,78,Offer Declined,5,Male,195,50000
+CND0236,Candidate_236,HR Manager,Product,Consultancy,Delhi NCR,7,M.Sc,2024-04-27,2024-05-19,54,66,59,Rejected,12,Female,22,50000
+CND0237,Candidate_237,Sales Executive,HR,Campus Hiring,Hyderabad,11,BCA,2024-02-04,2024-02-21,54,89,67,Offer Declined,10,Female,17,8000
+CND0238,Candidate_238,Sales Executive,Marketing,Indeed,Mumbai,1,BCA,2024-01-17,2024-09-07,79,82,77,In Process,17,Female,234,10000
+CND0239,Candidate_239,Product Manager,Marketing,Consultancy,Bangalore,14,M.Sc,2024-06-18,2024-01-20,81,79,84,Rejected,12,Male,1,50000
+CND0240,Candidate_240,UI/UX Designer,HR,Company Website,Chennai,11,MBA,2024-02-06,2024-10-13,57,77,92,Hired,3,Male,250,5000
+CND0241,Candidate_241,Data Analyst,Analytics,Employee Referral,Hyderabad,10,M.Sc,2024-09-20,2024-02-06,59,72,96,Rejected,20,Male,1,25000
+CND0242,Candidate_242,Business Analyst,Sales,Naukri.com,Bangalore,7,B.Sc,2024-05-01,2024-07-08,87,67,80,In Process,4,Female,68,12000
+CND0243,Candidate_243,HR Manager,Data Science,Naukri.com,Delhi NCR,11,B.Sc,2024-05-22,2024-05-04,96,40,76,Offer Declined,21,Male,1,12000
+CND0244,Candidate_244,Software Engineer,Marketing,Campus Hiring,Bangalore,13,M.Tech,2024-12-08,2024-12-08,81,94,60,In Process,15,Female,1,8000
+CND0245,Candidate_245,Business Analyst,Product,Indeed,Chennai,8,BCA,2024-09-05,2024-02-15,97,47,98,Offer Declined,24,Male,1,10000
+CND0246,Candidate_246,Sales Executive,Data Science,Indeed,Hyderabad,0,MBA,2024-04-19,2024-12-09,77,76,98,Rejected,3,Male,234,10000
+CND0247,Candidate_247,Software Engineer,Product,Consultancy,Mumbai,12,MBA,2024-10-03,2024-01-31,66,71,87,In Process,4,Male,1,50000
+CND0248,Candidate_248,Software Engineer,Analytics,LinkedIn,Delhi NCR,4,MCA,2024-03-08,2024-01-26,80,99,54,In Process,18,Female,1,15000
+CND0249,Candidate_249,Software Engineer,Engineering,Consultancy,Hyderabad,7,MCA,2024-10-19,2024-05-16,57,87,57,Rejected,17,Female,1,50000
+CND0250,Candidate_250,Product Manager,Data Science,Employee Referral,Chennai,14,M.Sc,2024-10-22,2024-04-22,89,82,83,Rejected,15,Female,1,25000
+CND0251,Candidate_251,Sales Executive,Design,Company Website,Delhi NCR,10,MBA,2024-08-30,2024-01-21,74,76,97,In Process,18,Male,1,5000
+CND0252,Candidate_252,Software Engineer,Marketing,Naukri.com,Pune,13,M.Sc,2024-05-04,2024-11-24,58,70,65,Hired,19,Female,204,12000
+CND0253,Candidate_253,HR Manager,Data Science,Consultancy,Bangalore,1,M.Sc,2024-08-30,2024-03-29,51,69,87,In Process,23,Female,1,50000
+CND0254,Candidate_254,Marketing Executive,Data Science,LinkedIn,Chennai,3,MCA,2024-07-27,2024-05-12,64,70,65,Hired,9,Male,1,15000
+CND0255,Candidate_255,Software Engineer,Data Science,LinkedIn,Pune,6,BCA,2024-04-07,2024-03-15,99,85,80,Rejected,19,Female,1,15000
+CND0256,Candidate_256,Product Manager,Sales,Consultancy,Hyderabad,2,M.Sc,2024-02-18,2024-09-09,52,93,53,In Process,9,Female,204,50000
+CND0257,Candidate_257,Business Analyst,Data Science,Campus Hiring,Mumbai,12,B.Tech,2024-02-19,2024-12-18,98,58,98,Rejected,15,Female,303,8000
+CND0258,Candidate_258,Sales Executive,Product,Naukri.com,Delhi NCR,11,BCA,2024-12-03,2024-03-09,85,71,94,Hired,7,Female,1,12000
+CND0259,Candidate_259,UI/UX Designer,Engineering,Campus Hiring,Bangalore,4,MBA,2024-08-08,2024-10-25,53,48,99,Rejected,19,Male,78,8000
+CND0260,Candidate_260,Product Manager,Analytics,Company Website,Delhi NCR,7,MBA,2024-06-30,2024-05-01,63,51,54,Offer Declined,5,Male,1,5000
+CND0261,Candidate_261,Software Engineer,HR,LinkedIn,Hyderabad,11,M.Sc,2024-08-04,2024-09-05,90,70,79,Hired,9,Female,32,15000
+CND0262,Candidate_262,Sales Executive,Data Science,LinkedIn,Delhi NCR,9,BCA,2024-07-29,2025-01-03,90,85,73,Offer Declined,19,Male,158,15000
+CND0263,Candidate_263,Marketing Executive,Marketing,Employee Referral,Bangalore,2,MCA,2024-08-27,2024-05-21,74,94,65,Hired,9,Female,1,25000
+CND0264,Candidate_264,Software Engineer,Data Science,Company Website,Hyderabad,3,MCA,2024-01-28,2024-07-17,99,55,60,Offer Declined,23,Female,171,5000
+CND0265,Candidate_265,Product Manager,Marketing,LinkedIn,Delhi NCR,13,B.Sc,2024-12-10,2024-04-05,59,40,94,Offer Declined,3,Female,1,15000
+CND0266,Candidate_266,Data Analyst,Product,Company Website,Mumbai,14,MBA,2024-11-30,2024-11-16,70,84,53,Rejected,19,Other,1,5000
+CND0267,Candidate_267,HR Manager,Marketing,Naukri.com,Chennai,8,M.Tech,2024-11-26,2024-11-16,85,94,75,Rejected,19,Male,1,12000
+CND0268,Candidate_268,UI/UX Designer,Design,Indeed,Hyderabad,13,B.Sc,2024-02-20,2025-01-12,61,92,76,Rejected,13,Male,327,10000
+CND0269,Candidate_269,Business Analyst,HR,LinkedIn,Chennai,13,MCA,2024-02-01,2024-03-09,76,60,95,Rejected,5,Male,37,15000
+CND0270,Candidate_270,Product Manager,Engineering,Employee Referral,Hyderabad,6,BCA,2024-07-25,2024-04-03,89,70,92,Hired,17,Male,1,25000
+CND0271,Candidate_271,Sales Executive,Marketing,Naukri.com,Mumbai,0,MCA,2024-06-22,2024-06-18,51,70,76,Hired,23,Male,1,12000
+CND0272,Candidate_272,UI/UX Designer,Marketing,Consultancy,Chennai,13,BCA,2024-02-25,2024-03-06,62,73,91,Hired,13,Male,10,50000
+CND0273,Candidate_273,UI/UX Designer,Engineering,Company Website,Pune,11,B.Sc,2024-05-07,2024-11-02,81,43,99,Rejected,18,Female,179,5000
+CND0274,Candidate_274,UI/UX Designer,HR,Consultancy,Bangalore,3,MBA,2024-04-08,2024-01-24,80,67,55,Rejected,24,Female,1,50000
+CND0275,Candidate_275,Software Engineer,Data Science,Campus Hiring,Pune,3,MCA,2024-04-07,2024-06-18,65,77,64,Rejected,11,Male,72,8000
+CND0276,Candidate_276,HR Manager,Marketing,Naukri.com,Delhi NCR,8,M.Sc,2024-10-01,2024-10-31,81,97,79,Offer Declined,3,Male,30,12000
+CND0277,Candidate_277,Software Engineer,Engineering,Consultancy,Mumbai,5,BCA,2024-08-17,2024-12-22,81,70,91,Rejected,24,Female,127,50000
+CND0278,Candidate_278,Sales Executive,Design,LinkedIn,Pune,8,MBA,2024-03-12,2024-07-21,83,98,86,Rejected,18,Male,131,15000
+CND0279,Candidate_279,Software Engineer,Design,Company Website,Hyderabad,11,M.Tech,2024-08-04,2024-08-01,60,94,86,Rejected,11,Male,1,5000
+CND0280,Candidate_280,Data Analyst,Product,Indeed,Delhi NCR,14,BCA,2024-04-03,2025-01-11,59,66,91,In Process,21,Male,283,10000
+CND0281,Candidate_281,HR Manager,Engineering,Naukri.com,Delhi NCR,5,B.Sc,2024-05-22,2024-04-21,64,44,86,Offer Declined,14,Female,1,12000
+CND0282,Candidate_282,HR Manager,Product,LinkedIn,Pune,5,M.Tech,2024-08-24,2024-02-18,66,64,84,Offer Declined,21,Male,1,15000
+CND0283,Candidate_283,Sales Executive,Design,Employee Referral,Pune,4,M.Tech,2024-05-07,2024-11-09,89,42,72,Offer Declined,24,Female,186,25000
+CND0284,Candidate_284,Business Analyst,HR,Campus Hiring,Mumbai,4,B.Tech,2024-02-08,2024-12-29,67,72,65,Hired,11,Male,325,8000
+CND0285,Candidate_285,Data Analyst,Data Science,Company Website,Bangalore,1,MCA,2024-08-14,2024-11-27,58,43,53,In Process,9,Male,105,5000
+CND0286,Candidate_286,Product Manager,Engineering,Naukri.com,Pune,7,BCA,2024-10-08,2024-05-14,74,64,67,In Process,16,Male,1,12000
+CND0287,Candidate_287,Software Engineer,Analytics,Naukri.com,Pune,7,M.Tech,2024-02-20,2024-03-03,89,70,65,Hired,21,Male,12,12000
+CND0288,Candidate_288,Marketing Executive,Design,Indeed,Chennai,10,B.Tech,2024-01-26,2025-01-01,63,73,98,Offer Declined,21,Female,341,10000
+CND0289,Candidate_289,Software Engineer,Design,Indeed,Hyderabad,12,B.Sc,2024-11-29,2024-06-13,74,70,78,Hired,4,Female,1,10000
+CND0290,Candidate_290,UI/UX Designer,Analytics,Employee Referral,Chennai,0,MBA,2024-10-03,2024-12-26,99,44,62,In Process,11,Female,84,25000
+CND0291,Candidate_291,Software Engineer,Sales,Campus Hiring,Chennai,7,M.Sc,2024-01-08,2024-11-13,71,74,96,Hired,15,Female,310,8000
+CND0292,Candidate_292,Product Manager,Design,Employee Referral,Delhi NCR,4,M.Sc,2024-02-17,2024-03-12,79,67,66,Rejected,17,Female,24,25000
+CND0293,Candidate_293,Software Engineer,Marketing,LinkedIn,Bangalore,1,BCA,2024-05-01,2024-10-26,69,68,94,In Process,5,Female,178,15000
+CND0294,Candidate_294,Data Analyst,HR,LinkedIn,Hyderabad,13,M.Tech,2024-03-26,2024-02-01,70,48,81,Rejected,13,Female,1,15000
+CND0295,Candidate_295,Data Analyst,Engineering,Employee Referral,Mumbai,1,M.Sc,2024-07-27,2024-07-06,93,91,97,Rejected,23,Male,1,25000
+CND0296,Candidate_296,HR Manager,Analytics,Campus Hiring,Mumbai,13,MCA,2024-09-05,2024-10-09,81,77,71,Rejected,16,Male,34,8000
+CND0297,Candidate_297,Sales Executive,Marketing,Employee Referral,Pune,14,M.Sc,2024-09-03,2024-08-17,95,89,53,In Process,10,Male,1,25000
+CND0298,Candidate_298,Business Analyst,Analytics,Campus Hiring,Pune,14,M.Sc,2024-04-19,2024-12-14,98,70,65,Hired,20,Female,239,8000
+CND0299,Candidate_299,Marketing Executive,Engineering,Campus Hiring,Mumbai,5,M.Sc,2024-07-24,2024-07-18,70,58,86,Rejected,21,Male,1,8000
+CND0300,Candidate_300,UI/UX Designer,Product,Consultancy,Pune,10,B.Tech,2024-01-31,2024-02-15,84,99,90,Offer Declined,18,Male,15,50000
+CND0301,Candidate_301,Software Engineer,Engineering,Company Website,Bangalore,12,M.Tech,2024-03-25,2024-09-26,81,83,98,In Process,4,Female,185,5000
+CND0302,Candidate_302,Software Engineer,Sales,Campus Hiring,Chennai,8,MCA,2024-07-13,2024-12-07,79,96,62,Rejected,10,Female,147,8000
+CND0303,Candidate_303,Product Manager,Engineering,Indeed,Pune,0,M.Tech,2024-01-02,2024-07-03,88,50,83,In Process,24,Female,183,10000
+CND0304,Candidate_304,Sales Executive,Engineering,Campus Hiring,Delhi NCR,11,BCA,2024-07-18,2024-01-17,98,41,94,In Process,8,Male,1,8000
+CND0305,Candidate_305,Data Analyst,Sales,Campus Hiring,Pune,5,BCA,2024-05-15,2024-08-13,61,86,71,Offer Declined,14,Female,90,8000
+CND0306,Candidate_306,Marketing Executive,HR,Campus Hiring,Hyderabad,8,BCA,2024-08-20,2024-09-17,90,83,72,Rejected,17,Male,28,8000
+CND0307,Candidate_307,HR Manager,Design,Consultancy,Bangalore,7,B.Sc,2024-05-26,2024-03-05,96,83,65,Hired,10,Male,1,50000
+CND0308,Candidate_308,Data Analyst,Engineering,Consultancy,Hyderabad,10,M.Sc,2024-08-04,2024-08-19,67,48,91,Rejected,6,Male,15,50000
+CND0309,Candidate_309,UI/UX Designer,Sales,LinkedIn,Hyderabad,5,B.Sc,2024-12-22,2024-07-14,70,60,83,Rejected,17,Male,1,15000
+CND0310,Candidate_310,Sales Executive,Marketing,Consultancy,Delhi NCR,2,B.Tech,2024-10-11,2024-12-01,62,63,81,Rejected,22,Male,51,50000
+CND0311,Candidate_311,UI/UX Designer,Product,Indeed,Bangalore,7,BCA,2024-12-04,2024-09-02,70,73,94,Hired,19,Female,1,10000
+CND0312,Candidate_312,Business Analyst,Product,Indeed,Bangalore,8,MCA,2024-09-06,2025-01-07,57,61,98,Rejected,15,Male,123,10000
+CND0313,Candidate_313,HR Manager,Engineering,Consultancy,Bangalore,0,M.Tech,2024-03-20,2024-03-29,95,42,70,Rejected,20,Female,9,50000
+CND0314,Candidate_314,Business Analyst,HR,Employee Referral,Bangalore,11,M.Sc,2024-04-07,2024-08-20,89,51,95,Rejected,4,Male,135,25000
+CND0315,Candidate_315,Product Manager,HR,Company Website,Bangalore,8,MBA,2024-05-31,2024-04-10,95,67,93,Offer Declined,15,Male,1,5000
+CND0316,Candidate_316,UI/UX Designer,Marketing,Consultancy,Delhi NCR,13,MCA,2024-04-21,2024-10-04,56,69,70,Rejected,15,Male,166,50000
+CND0317,Candidate_317,Product Manager,Engineering,Campus Hiring,Pune,14,M.Sc,2024-01-30,2024-12-09,72,70,93,Hired,24,Male,314,8000
+CND0318,Candidate_318,Software Engineer,Product,Naukri.com,Hyderabad,5,B.Sc,2024-10-23,2024-05-28,93,87,60,In Process,17,Female,1,12000
+CND0319,Candidate_319,Business Analyst,HR,Company Website,Bangalore,5,B.Sc,2024-10-04,2024-11-21,81,70,88,Hired,22,Male,48,5000
+CND0320,Candidate_320,Sales Executive,Engineering,Company Website,Pune,11,MCA,2024-02-01,2024-10-12,60,67,53,In Process,12,Male,254,5000
+CND0321,Candidate_321,UI/UX Designer,Analytics,Indeed,Pune,3,B.Sc,2024-06-09,2024-09-14,71,95,50,In Process,5,Male,97,10000
+CND0322,Candidate_322,Marketing Executive,HR,Company Website,Hyderabad,0,BCA,2024-01-30,2024-09-05,71,65,77,Rejected,21,Male,219,5000
+CND0323,Candidate_323,HR Manager,Sales,Consultancy,Delhi NCR,9,B.Tech,2024-01-26,2024-08-21,92,72,73,In Process,5,Female,208,50000
+CND0324,Candidate_324,Data Analyst,Analytics,Campus Hiring,Mumbai,7,M.Tech,2024-10-26,2024-11-09,74,60,84,Rejected,24,Male,14,8000
+CND0325,Candidate_325,Sales Executive,Design,Campus Hiring,Mumbai,1,B.Tech,2024-09-01,2024-05-27,71,74,62,Rejected,16,Female,1,8000
+CND0326,Candidate_326,Sales Executive,HR,LinkedIn,Pune,11,M.Sc,2024-09-14,2024-06-24,77,91,96,Hired,10,Female,1,15000
+CND0327,Candidate_327,Product Manager,Product,Campus Hiring,Chennai,0,M.Tech,2024-09-28,2024-05-15,78,73,83,Rejected,6,Female,1,8000
+CND0328,Candidate_328,Business Analyst,Data Science,Campus Hiring,Chennai,1,M.Tech,2024-03-21,2024-02-24,62,80,60,Offer Declined,22,Female,1,8000
+CND0329,Candidate_329,UI/UX Designer,Analytics,Indeed,Hyderabad,0,B.Tech,2024-01-30,2024-06-01,67,90,85,Rejected,13,Female,123,10000
+CND0330,Candidate_330,UI/UX Designer,Design,Campus Hiring,Mumbai,0,MCA,2024-09-17,2024-08-28,51,86,66,Rejected,13,Female,1,8000
+CND0331,Candidate_331,Software Engineer,Marketing,LinkedIn,Pune,8,M.Tech,2024-02-11,2024-05-14,78,57,84,Rejected,13,Female,93,15000
+CND0332,Candidate_332,Software Engineer,Marketing,Naukri.com,Delhi NCR,12,B.Tech,2024-04-05,2024-09-04,70,97,67,Rejected,4,Male,152,12000
+CND0333,Candidate_333,HR Manager,Product,Consultancy,Mumbai,13,M.Tech,2024-02-05,2024-10-28,64,70,89,Hired,19,Male,266,50000
+CND0334,Candidate_334,Product Manager,HR,Indeed,Pune,0,MBA,2024-10-31,2024-11-18,76,96,71,Rejected,11,Male,18,10000
+CND0335,Candidate_335,Sales Executive,Engineering,Naukri.com,Pune,12,MCA,2024-02-04,2024-12-18,99,62,73,In Process,4,Female,318,12000
+CND0336,Candidate_336,UI/UX Designer,HR,Indeed,Bangalore,3,BCA,2024-12-11,2024-07-23,80,87,68,Hired,17,Female,1,10000
+CND0337,Candidate_337,Marketing Executive,Product,Employee Referral,Delhi NCR,9,M.Tech,2024-04-30,2024-07-01,64,70,86,Hired,18,Male,62,25000
+CND0338,Candidate_338,Product Manager,Marketing,Company Website,Bangalore,5,MBA,2024-07-25,2024-01-25,72,70,88,Hired,6,Female,1,5000
+CND0339,Candidate_339,HR Manager,HR,Employee Referral,Hyderabad,6,BCA,2024-03-02,2024-09-20,73,44,70,Rejected,10,Male,202,25000
+CND0340,Candidate_340,HR Manager,Marketing,Campus Hiring,Bangalore,1,BCA,2024-10-18,2024-06-25,93,83,57,Offer Declined,11,Male,1,8000
+CND0341,Candidate_341,Product Manager,Analytics,Naukri.com,Bangalore,5,M.Sc,2024-05-06,2024-04-13,62,70,77,Hired,7,Other,1,12000
+CND0342,Candidate_342,HR Manager,Design,Campus Hiring,Mumbai,6,M.Tech,2024-10-23,2024-09-16,71,70,65,Hired,18,Male,1,8000
+CND0343,Candidate_343,Product Manager,Engineering,Company Website,Chennai,9,B.Tech,2024-10-31,2024-04-28,92,54,66,Rejected,15,Male,1,5000
+CND0344,Candidate_344,Data Analyst,Analytics,Indeed,Pune,13,M.Tech,2024-01-21,2024-07-10,86,66,86,In Process,9,Female,171,10000
+CND0345,Candidate_345,Product Manager,Marketing,Company Website,Delhi NCR,9,MBA,2024-11-13,2024-05-22,82,74,85,Rejected,22,Female,1,5000
+CND0346,Candidate_346,Business Analyst,Marketing,LinkedIn,Bangalore,1,BCA,2024-02-11,2024-07-03,52,72,68,Rejected,19,Male,143,15000
+CND0347,Candidate_347,Product Manager,Data Science,Company Website,Delhi NCR,14,M.Tech,2024-08-02,2024-06-02,68,59,76,In Process,5,Female,1,5000
+CND0348,Candidate_348,HR Manager,Data Science,LinkedIn,Chennai,1,B.Tech,2024-12-02,2024-11-11,72,55,83,Rejected,7,Male,1,15000
+CND0349,Candidate_349,UI/UX Designer,Analytics,Company Website,Chennai,9,M.Sc,2024-10-25,2025-01-04,78,73,60,Offer Declined,21,Male,71,5000
+CND0350,Candidate_350,Business Analyst,Sales,Consultancy,Bangalore,6,M.Tech,2024-10-16,2024-05-31,79,41,94,In Process,14,Male,1,50000
+CND0351,Candidate_351,HR Manager,Analytics,LinkedIn,Hyderabad,11,MCA,2024-09-24,2024-10-21,88,74,96,Rejected,9,Female,27,15000
+CND0352,Candidate_352,Software Engineer,Data Science,Naukri.com,Bangalore,0,M.Sc,2024-06-10,2024-01-16,93,79,61,Rejected,11,Male,1,12000
+CND0353,Candidate_353,Software Engineer,Marketing,Campus Hiring,Mumbai,7,B.Tech,2024-05-13,2024-10-01,96,95,70,Hired,8,Female,141,8000
+CND0354,Candidate_354,UI/UX Designer,Product,Campus Hiring,Pune,10,MBA,2024-04-14,2024-04-17,74,67,60,Rejected,19,Female,3,8000
+CND0355,Candidate_355,UI/UX Designer,Analytics,Employee Referral,Hyderabad,12,BCA,2024-12-08,2024-02-23,86,86,88,Offer Declined,18,Other,1,25000
+CND0356,Candidate_356,Business Analyst,Marketing,Campus Hiring,Bangalore,2,M.Tech,2024-06-09,2024-05-13,96,78,77,Rejected,5,Male,1,8000
+CND0357,Candidate_357,Data Analyst,Product,Indeed,Delhi NCR,10,B.Tech,2024-05-02,2025-01-13,57,70,65,Hired,23,Female,256,10000
+CND0358,Candidate_358,UI/UX Designer,Product,Consultancy,Hyderabad,5,M.Sc,2024-05-15,2024-08-06,91,48,66,In Process,6,Male,83,50000
+CND0359,Candidate_359,Software Engineer,Data Science,Company Website,Hyderabad,8,MCA,2024-07-21,2024-09-17,65,59,69,Rejected,12,Male,58,5000
+CND0360,Candidate_360,Product Manager,Analytics,Employee Referral,Bangalore,5,B.Tech,2024-03-08,2024-10-21,57,99,90,Hired,7,Male,227,25000
+CND0361,Candidate_361,HR Manager,HR,Indeed,Hyderabad,8,B.Sc,2024-12-09,2024-05-13,50,40,95,Rejected,23,Male,1,10000
+CND0362,Candidate_362,Software Engineer,Engineering,Indeed,Delhi NCR,6,MCA,2024-11-26,2024-12-29,93,47,61,Rejected,24,Female,33,10000
+CND0363,Candidate_363,Software Engineer,Data Science,LinkedIn,Chennai,14,M.Sc,2024-06-02,2024-09-10,54,94,55,In Process,12,Male,100,15000
+CND0364,Candidate_364,Data Analyst,Data Science,Campus Hiring,Hyderabad,8,MBA,2024-08-22,2024-12-06,52,70,66,Hired,14,Male,106,8000
+CND0365,Candidate_365,Business Analyst,HR,Naukri.com,Chennai,1,BCA,2024-06-10,2025-01-09,50,42,68,Rejected,12,Female,213,12000
+CND0366,Candidate_366,Business Analyst,Engineering,Naukri.com,Delhi NCR,11,M.Sc,2024-02-07,2024-09-18,53,43,75,Rejected,15,Male,224,12000
+CND0367,Candidate_367,Sales Executive,Marketing,Employee Referral,Bangalore,7,MBA,2024-01-05,2024-08-27,89,97,97,Rejected,13,Female,235,25000
+CND0368,Candidate_368,Data Analyst,Sales,Consultancy,Pune,7,M.Tech,2024-08-22,2024-01-19,84,64,93,Rejected,24,Male,1,50000
+CND0369,Candidate_369,Product Manager,Analytics,Naukri.com,Hyderabad,1,B.Tech,2024-11-14,2024-02-27,81,86,93,Rejected,18,Female,1,12000
+CND0370,Candidate_370,Business Analyst,Sales,Company Website,Pune,11,B.Sc,2024-10-15,2024-06-09,91,77,81,Rejected,10,Female,1,5000
+CND0371,Candidate_371,HR Manager,Marketing,Naukri.com,Delhi NCR,13,MCA,2024-02-21,2024-05-03,83,54,55,Offer Declined,10,Male,72,12000
+CND0372,Candidate_372,UI/UX Designer,Design,Employee Referral,Hyderabad,3,MCA,2024-02-07,2024-08-05,92,60,85,Rejected,10,Male,180,25000
+CND0373,Candidate_373,Data Analyst,Data Science,Naukri.com,Chennai,13,B.Tech,2024-10-02,2024-12-30,74,74,87,Hired,15,Male,89,12000
+CND0374,Candidate_374,UI/UX Designer,Engineering,Company Website,Mumbai,14,B.Sc,2024-04-19,2024-05-14,59,96,60,Rejected,4,Female,25,5000
+CND0375,Candidate_375,Software Engineer,Data Science,LinkedIn,Pune,10,B.Tech,2024-09-16,2024-06-15,70,92,82,In Process,14,Male,1,15000
+CND0376,Candidate_376,HR Manager,Product,Consultancy,Hyderabad,14,M.Tech,2024-05-15,2024-12-15,95,92,73,In Process,12,Male,214,50000
+CND0377,Candidate_377,HR Manager,Data Science,Employee Referral,Pune,6,MBA,2024-03-08,2024-11-03,88,85,72,Hired,14,Male,240,25000
+CND0378,Candidate_378,Software Engineer,Data Science,LinkedIn,Hyderabad,10,M.Sc,2024-06-27,2024-07-17,76,91,64,Offer Declined,13,Male,20,15000
+CND0379,Candidate_379,Data Analyst,Marketing,LinkedIn,Bangalore,3,MCA,2024-02-05,2024-09-09,76,53,76,Rejected,17,Male,217,15000
+CND0380,Candidate_380,Software Engineer,Marketing,LinkedIn,Chennai,3,M.Tech,2024-05-05,2024-10-20,51,75,65,Hired,18,Female,168,15000
+CND0381,Candidate_381,UI/UX Designer,Marketing,Indeed,Pune,5,MBA,2024-07-08,2024-10-08,90,70,99,Hired,19,Male,92,10000
+CND0382,Candidate_382,Sales Executive,Sales,Consultancy,Mumbai,9,M.Tech,2024-05-25,2024-07-05,97,70,66,Hired,4,Male,41,50000
+CND0383,Candidate_383,HR Manager,Product,Campus Hiring,Mumbai,5,B.Sc,2024-03-21,2024-08-15,62,78,63,In Process,20,Female,147,8000
+CND0384,Candidate_384,Marketing Executive,Design,Consultancy,Delhi NCR,9,MCA,2024-08-12,2024-10-18,58,70,76,Hired,14,Female,67,50000
+CND0385,Candidate_385,Marketing Executive,Design,Indeed,Hyderabad,14,M.Sc,2024-10-05,2024-06-28,85,74,67,Hired,21,Male,1,10000
+CND0386,Candidate_386,UI/UX Designer,Marketing,Campus Hiring,Pune,2,B.Tech,2024-12-26,2024-07-09,71,99,77,Offer Declined,20,Male,1,8000
+CND0387,Candidate_387,Product Manager,Engineering,Consultancy,Delhi NCR,14,B.Tech,2024-06-03,2025-01-04,91,52,96,Rejected,19,Male,215,50000
+CND0388,Candidate_388,Business Analyst,Sales,LinkedIn,Pune,8,MBA,2024-11-09,2024-08-30,75,70,96,Hired,8,Female,1,15000
+CND0389,Candidate_389,Software Engineer,HR,Employee Referral,Hyderabad,11,M.Sc,2024-11-30,2024-05-28,61,70,65,Hired,17,Male,1,25000
+CND0390,Candidate_390,Software Engineer,Engineering,Campus Hiring,Mumbai,9,BCA,2024-09-27,2024-06-15,66,90,65,Hired,5,Female,1,8000
+CND0391,Candidate_391,Product Manager,Analytics,Company Website,Bangalore,13,B.Sc,2024-01-05,2024-05-18,63,72,94,Hired,8,Female,134,5000
+CND0392,Candidate_392,Product Manager,Analytics,Company Website,Mumbai,10,MBA,2024-12-07,2024-05-08,63,45,84,In Process,5,Male,1,5000
+CND0393,Candidate_393,UI/UX Designer,Engineering,Naukri.com,Delhi NCR,1,BCA,2024-10-10,2024-03-12,83,98,97,Hired,3,Male,1,12000
+CND0394,Candidate_394,UI/UX Designer,Marketing,Campus Hiring,Chennai,5,M.Tech,2024-06-02,2025-01-14,69,70,65,Hired,15,Male,226,8000
+CND0395,Candidate_395,Product Manager,HR,Employee Referral,Bangalore,11,B.Sc,2024-12-05,2024-04-18,60,62,57,In Process,23,Male,1,25000
+CND0396,Candidate_396,HR Manager,HR,Indeed,Delhi NCR,6,M.Tech,2024-02-23,2024-06-20,65,98,94,In Process,16,Male,118,10000
+CND0397,Candidate_397,UI/UX Designer,Sales,LinkedIn,Hyderabad,11,M.Sc,2024-03-09,2024-03-12,80,66,66,Rejected,15,Female,3,15000
+CND0398,Candidate_398,Sales Executive,HR,Naukri.com,Bangalore,12,MCA,2024-05-15,2024-10-11,55,73,66,Rejected,6,Female,149,12000
+CND0399,Candidate_399,UI/UX Designer,Analytics,Company Website,Delhi NCR,8,B.Sc,2024-02-29,2024-12-29,68,95,98,Rejected,9,Female,304,5000
+CND0400,Candidate_400,Software Engineer,Product,Indeed,Hyderabad,12,BCA,2024-02-24,2024-04-14,86,85,82,Rejected,24,Female,50,10000
+CND0401,Candidate_401,UI/UX Designer,Marketing,Indeed,Mumbai,2,MCA,2024-10-10,2024-04-18,53,77,81,Rejected,12,Male,1,10000
+CND0402,Candidate_402,HR Manager,HR,LinkedIn,Chennai,9,B.Tech,2024-03-20,2024-04-30,96,53,57,Rejected,9,Male,41,15000
+CND0403,Candidate_403,Product Manager,Sales,Campus Hiring,Hyderabad,2,BCA,2024-05-19,2024-09-14,53,75,68,Offer Declined,23,Male,118,8000
+CND0404,Candidate_404,Software Engineer,Analytics,Company Website,Pune,6,MBA,2024-05-24,2024-05-31,69,92,87,Hired,17,Female,7,5000
+CND0405,Candidate_405,UI/UX Designer,Product,Employee Referral,Hyderabad,13,B.Tech,2024-11-05,2025-01-15,59,47,52,In Process,17,Female,71,25000
+CND0406,Candidate_406,HR Manager,Data Science,Indeed,Hyderabad,3,B.Tech,2024-04-17,2024-11-07,73,74,65,Hired,6,Female,204,10000
+CND0407,Candidate_407,Sales Executive,Data Science,LinkedIn,Chennai,12,MBA,2024-06-24,2024-10-05,84,58,62,In Process,8,Male,103,15000
+CND0408,Candidate_408,UI/UX Designer,Product,Employee Referral,Pune,7,B.Sc,2024-04-14,2024-11-11,75,69,96,Rejected,22,Male,211,25000
+CND0409,Candidate_409,HR Manager,Analytics,Campus Hiring,Delhi NCR,12,B.Tech,2024-12-17,2024-06-03,86,53,95,In Process,7,Female,1,8000
+CND0410,Candidate_410,Sales Executive,Sales,Company Website,Delhi NCR,6,M.Sc,2024-11-20,2024-03-02,87,98,80,Hired,22,Male,1,5000
+CND0411,Candidate_411,Product Manager,Product,Campus Hiring,Hyderabad,4,BCA,2024-05-15,2024-04-19,70,59,65,Rejected,14,Female,1,8000
+CND0412,Candidate_412,UI/UX Designer,Marketing,Indeed,Pune,6,MCA,2024-09-15,2024-06-10,89,88,99,Rejected,3,Female,1,10000
+CND0413,Candidate_413,Sales Executive,Marketing,Employee Referral,Pune,2,B.Tech,2024-09-07,2024-05-06,88,64,81,In Process,10,Female,1,25000
+CND0414,Candidate_414,Software Engineer,Data Science,Employee Referral,Chennai,11,BCA,2024-05-08,2024-07-13,70,79,71,Rejected,3,Male,66,25000
+CND0415,Candidate_415,Product Manager,HR,Employee Referral,Mumbai,1,M.Tech,2024-01-27,2024-04-11,59,63,78,Rejected,7,Male,75,25000
+CND0416,Candidate_416,Software Engineer,Sales,Indeed,Delhi NCR,5,BCA,2024-02-17,2024-06-13,87,53,71,Rejected,24,Male,117,10000
+CND0417,Candidate_417,Marketing Executive,Data Science,Indeed,Chennai,1,MCA,2024-11-20,2024-01-18,95,65,92,Rejected,8,Male,1,10000
+CND0418,Candidate_418,Data Analyst,HR,Campus Hiring,Bangalore,2,BCA,2024-08-04,2025-01-07,53,77,52,Rejected,23,Male,156,8000
+CND0419,Candidate_419,UI/UX Designer,HR,Naukri.com,Delhi NCR,5,MBA,2024-05-21,2024-10-10,94,70,65,Hired,5,Female,142,12000
+CND0420,Candidate_420,Sales Executive,Design,Campus Hiring,Chennai,4,MCA,2024-01-23,2024-03-15,69,61,91,Offer Declined,17,Female,52,8000
+CND0421,Candidate_421,Data Analyst,Marketing,Company Website,Delhi NCR,7,B.Sc,2024-01-02,2024-05-30,66,87,70,In Process,7,Male,149,5000
+CND0422,Candidate_422,Data Analyst,Analytics,LinkedIn,Mumbai,8,M.Tech,2024-06-19,2024-02-03,56,96,65,Offer Declined,16,Male,1,15000
+CND0423,Candidate_423,Sales Executive,Engineering,Employee Referral,Bangalore,10,MBA,2024-03-07,2024-02-07,53,70,65,Hired,20,Male,1,25000
+CND0424,Candidate_424,Product Manager,Analytics,Naukri.com,Mumbai,2,B.Sc,2024-11-22,2024-10-20,78,85,51,Offer Declined,18,Male,1,12000
+CND0425,Candidate_425,UI/UX Designer,Engineering,LinkedIn,Bangalore,11,BCA,2024-05-14,2024-06-08,63,90,90,In Process,8,Female,25,15000
+CND0426,Candidate_426,Marketing Executive,Product,Naukri.com,Hyderabad,9,MCA,2024-03-23,2025-01-02,52,42,73,In Process,16,Male,285,12000
+CND0427,Candidate_427,Software Engineer,Marketing,Consultancy,Chennai,2,M.Tech,2024-08-14,2024-03-15,73,81,84,Rejected,10,Male,1,50000
+CND0428,Candidate_428,HR Manager,HR,Campus Hiring,Bangalore,2,MBA,2024-10-09,2024-12-02,86,58,79,Rejected,9,Male,54,8000
+CND0429,Candidate_429,Software Engineer,Sales,Indeed,Mumbai,12,B.Sc,2024-12-27,2024-09-18,65,48,79,In Process,10,Female,1,10000
+CND0430,Candidate_430,HR Manager,Engineering,Employee Referral,Delhi NCR,12,B.Sc,2024-08-06,2024-03-03,53,67,96,Rejected,15,Female,1,25000
+CND0431,Candidate_431,Software Engineer,Analytics,Campus Hiring,Bangalore,5,M.Tech,2024-10-14,2024-01-17,73,70,84,Hired,8,Male,1,8000
+CND0432,Candidate_432,Sales Executive,HR,LinkedIn,Chennai,14,M.Sc,2024-01-05,2024-10-30,83,84,68,Rejected,20,Male,299,15000
+CND0433,Candidate_433,Marketing Executive,Engineering,Consultancy,Bangalore,14,BCA,2024-02-27,2024-06-04,79,46,99,Offer Declined,4,Female,98,50000
+CND0434,Candidate_434,UI/UX Designer,Engineering,Consultancy,Pune,0,M.Tech,2024-02-08,2024-09-07,67,53,57,Offer Declined,10,Female,212,50000
+CND0435,Candidate_435,HR Manager,Design,Consultancy,Delhi NCR,6,B.Sc,2024-12-19,2024-09-12,68,48,75,Offer Declined,13,Male,1,50000
+CND0436,Candidate_436,UI/UX Designer,Engineering,LinkedIn,Chennai,11,B.Tech,2024-03-17,2024-08-23,80,98,98,Rejected,3,Female,159,15000
+CND0437,Candidate_437,UI/UX Designer,Sales,LinkedIn,Chennai,0,MBA,2024-10-06,2024-07-03,68,99,89,Hired,24,Female,1,15000
+CND0438,Candidate_438,UI/UX Designer,Marketing,LinkedIn,Hyderabad,13,M.Tech,2024-01-19,2024-04-14,98,94,65,Hired,8,Female,86,15000
+CND0439,Candidate_439,Business Analyst,Sales,LinkedIn,Mumbai,4,M.Sc,2024-07-08,2024-02-06,95,96,79,Hired,18,Female,1,15000
+CND0440,Candidate_440,Product Manager,Data Science,Consultancy,Hyderabad,14,B.Sc,2024-10-25,2024-05-19,68,99,65,Hired,22,Female,1,50000
+CND0441,Candidate_441,Software Engineer,HR,Consultancy,Chennai,9,BCA,2024-10-09,2024-09-11,71,58,52,Rejected,14,Male,1,50000
+CND0442,Candidate_442,UI/UX Designer,Marketing,Naukri.com,Delhi NCR,12,B.Sc,2024-03-16,2024-03-09,73,86,65,Hired,13,Female,1,12000
+CND0443,Candidate_443,Software Engineer,Design,Campus Hiring,Bangalore,7,BCA,2024-08-08,2024-02-13,94,91,85,Rejected,12,Male,1,8000
+CND0444,Candidate_444,UI/UX Designer,Marketing,Employee Referral,Bangalore,3,M.Tech,2024-03-06,2024-08-03,61,53,74,Offer Declined,5,Female,150,25000
+CND0445,Candidate_445,HR Manager,Marketing,Indeed,Delhi NCR,4,BCA,2024-01-22,2024-09-18,79,95,86,Rejected,15,Male,240,10000
+CND0446,Candidate_446,Product Manager,Analytics,Consultancy,Chennai,3,MCA,2024-06-06,2024-02-17,87,77,50,Offer Declined,5,Female,1,50000
+CND0447,Candidate_447,Product Manager,Marketing,Indeed,Bangalore,11,MCA,2024-07-05,2024-11-01,80,92,64,Rejected,17,Female,119,10000
+CND0448,Candidate_448,Sales Executive,Design,Campus Hiring,Bangalore,11,MCA,2024-01-21,2024-11-28,85,75,86,Hired,18,Male,312,8000
+CND0449,Candidate_449,Business Analyst,Sales,Campus Hiring,Bangalore,13,M.Sc,2024-07-02,2024-12-27,68,79,62,Rejected,15,Female,178,8000
+CND0450,Candidate_450,Sales Executive,Marketing,Indeed,Mumbai,3,M.Sc,2024-04-17,2024-02-07,97,70,89,Hired,19,Male,1,10000
+CND0451,Candidate_451,Sales Executive,Product,Consultancy,Mumbai,11,B.Tech,2024-12-15,2024-03-28,94,69,57,Rejected,5,Female,1,50000
+CND0452,Candidate_452,Sales Executive,HR,Indeed,Pune,7,M.Sc,2024-05-07,2024-03-27,85,48,54,In Process,22,Male,1,10000
+CND0453,Candidate_453,Sales Executive,Marketing,Naukri.com,Hyderabad,1,M.Tech,2024-12-07,2024-10-25,79,72,65,Hired,13,Male,1,12000
+CND0454,Candidate_454,Sales Executive,HR,Company Website,Delhi NCR,0,B.Sc,2024-02-22,2024-06-14,98,95,65,Hired,23,Female,113,5000
+CND0455,Candidate_455,Marketing Executive,Product,Consultancy,Delhi NCR,2,B.Sc,2024-06-30,2024-02-23,82,91,85,Rejected,21,Male,1,50000
+CND0456,Candidate_456,Product Manager,Product,Consultancy,Delhi NCR,8,B.Tech,2024-10-13,2024-05-17,67,64,84,Offer Declined,24,Female,1,50000
+CND0457,Candidate_457,Sales Executive,HR,Employee Referral,Pune,3,M.Sc,2024-07-27,2024-03-11,98,53,51,In Process,13,Male,1,25000
+CND0458,Candidate_458,UI/UX Designer,Engineering,LinkedIn,Mumbai,9,BCA,2024-11-13,2024-10-22,77,50,89,In Process,18,Male,1,15000
+CND0459,Candidate_459,Product Manager,Data Science,Company Website,Chennai,4,B.Tech,2024-03-20,2024-08-11,96,92,72,Hired,23,Male,144,5000
+CND0460,Candidate_460,Product Manager,Analytics,Campus Hiring,Chennai,1,BCA,2024-05-01,2024-11-16,60,74,58,In Process,5,Female,199,8000
+CND0461,Candidate_461,Data Analyst,Engineering,Consultancy,Pune,3,BCA,2024-03-24,2024-11-11,94,80,83,In Process,24,Male,232,50000
+CND0462,Candidate_462,Marketing Executive,Engineering,Indeed,Chennai,1,MBA,2024-03-31,2024-11-22,82,98,95,Rejected,8,Male,236,10000
+CND0463,Candidate_463,Sales Executive,Sales,Company Website,Delhi NCR,14,B.Sc,2024-07-30,2024-05-05,66,53,63,Offer Declined,16,Male,1,5000
+CND0464,Candidate_464,Software Engineer,Analytics,Employee Referral,Hyderabad,1,MCA,2024-01-13,2024-10-04,55,69,53,Rejected,20,Male,265,25000
+CND0465,Candidate_465,HR Manager,Analytics,Campus Hiring,Bangalore,3,M.Sc,2024-04-01,2024-07-23,53,80,79,Offer Declined,19,Female,113,8000
+CND0466,Candidate_466,Business Analyst,Engineering,LinkedIn,Mumbai,5,BCA,2024-06-19,2024-08-28,69,43,80,Offer Declined,6,Female,70,15000
+CND0467,Candidate_467,UI/UX Designer,Marketing,LinkedIn,Mumbai,6,MBA,2024-07-29,2024-08-24,97,98,87,Hired,17,Male,26,15000
+CND0468,Candidate_468,Software Engineer,Sales,Employee Referral,Pune,9,B.Sc,2024-12-08,2024-06-11,96,43,60,Rejected,13,Female,1,25000
+CND0469,Candidate_469,Marketing Executive,Sales,Employee Referral,Mumbai,2,MCA,2024-05-07,2024-11-07,76,67,84,Offer Declined,5,Male,184,25000
+CND0470,Candidate_470,HR Manager,Product,Indeed,Delhi NCR,2,BCA,2024-05-16,2024-08-17,64,70,65,Hired,5,Female,93,10000
+CND0471,Candidate_471,Marketing Executive,Design,Consultancy,Chennai,9,BCA,2024-03-22,2024-06-15,55,41,52,Rejected,18,Female,85,50000
+CND0472,Candidate_472,UI/UX Designer,Analytics,LinkedIn,Delhi NCR,5,B.Tech,2024-12-25,2024-10-28,96,80,63,Offer Declined,7,Female,1,15000
+CND0473,Candidate_473,Product Manager,Engineering,Campus Hiring,Pune,12,B.Tech,2024-02-25,2024-11-23,63,85,62,Rejected,23,Male,272,8000
+CND0474,Candidate_474,HR Manager,Product,Company Website,Delhi NCR,11,B.Sc,2024-07-14,2024-02-10,60,70,94,Hired,12,Female,1,5000
+CND0475,Candidate_475,Product Manager,HR,Campus Hiring,Chennai,2,MCA,2024-01-20,2024-11-18,88,80,81,Rejected,21,Male,303,8000
+CND0476,Candidate_476,UI/UX Designer,Data Science,Naukri.com,Hyderabad,12,BCA,2024-08-28,2024-03-01,58,95,83,Hired,6,Other,1,12000
+CND0477,Candidate_477,Software Engineer,Design,Naukri.com,Pune,1,B.Sc,2024-04-23,2024-04-26,75,94,94,Rejected,21,Male,3,12000
+CND0478,Candidate_478,UI/UX Designer,Design,Employee Referral,Hyderabad,7,B.Sc,2024-04-12,2024-11-26,65,70,68,Hired,13,Female,228,25000
+CND0479,Candidate_479,Software Engineer,Design,Indeed,Bangalore,4,M.Tech,2024-08-23,2024-04-28,54,68,87,Rejected,4,Female,1,10000
+CND0480,Candidate_480,HR Manager,Sales,Naukri.com,Hyderabad,14,M.Sc,2024-06-28,2024-05-25,59,88,65,Rejected,12,Female,1,12000
+CND0481,Candidate_481,HR Manager,HR,LinkedIn,Bangalore,0,B.Tech,2024-06-05,2024-12-14,99,87,51,In Process,13,Male,192,15000
+CND0482,Candidate_482,Sales Executive,Design,Campus Hiring,Bangalore,2,MCA,2024-04-26,2024-02-21,52,69,89,Rejected,22,Female,1,8000
+CND0483,Candidate_483,Marketing Executive,HR,Campus Hiring,Hyderabad,9,BCA,2024-04-24,2024-03-31,62,51,66,Rejected,18,Male,1,8000
+CND0484,Candidate_484,Sales Executive,Marketing,Employee Referral,Pune,7,B.Sc,2024-01-13,2024-05-12,92,74,83,In Process,21,Female,120,25000
+CND0485,Candidate_485,Marketing Executive,Design,Consultancy,Chennai,3,BCA,2024-12-03,2024-04-08,98,70,91,Hired,13,Male,1,50000
+CND0486,Candidate_486,Sales Executive,Data Science,Consultancy,Delhi NCR,13,M.Tech,2024-04-08,2024-10-19,79,85,65,Rejected,16,Male,194,50000
+CND0487,Candidate_487,Product Manager,HR,Company Website,Delhi NCR,6,MCA,2024-07-23,2024-02-18,94,89,87,Hired,4,Male,1,5000
+CND0488,Candidate_488,HR Manager,HR,Employee Referral,Chennai,9,B.Sc,2024-06-17,2024-03-31,55,60,51,Offer Declined,7,Male,1,25000
+CND0489,Candidate_489,Software Engineer,Data Science,Company Website,Bangalore,11,BCA,2024-05-22,2024-01-12,66,70,65,Hired,7,Male,1,5000
+CND0490,Candidate_490,Marketing Executive,Design,Consultancy,Bangalore,13,B.Tech,2024-02-05,2024-08-07,94,44,75,Rejected,21,Male,184,50000
+CND0491,Candidate_491,UI/UX Designer,Data Science,Employee Referral,Pune,13,M.Sc,2024-05-22,2024-08-28,68,87,62,In Process,23,Male,98,25000
+CND0492,Candidate_492,Marketing Executive,HR,Employee Referral,Mumbai,1,M.Tech,2024-06-28,2024-12-28,91,59,96,Rejected,14,Female,183,25000
+CND0493,Candidate_493,Software Engineer,Data Science,Employee Referral,Hyderabad,6,MCA,2024-11-24,2024-11-10,84,76,80,Hired,20,Female,1,25000
+CND0494,Candidate_494,Sales Executive,HR,Consultancy,Bangalore,4,M.Tech,2024-09-17,2024-09-07,95,42,83,Rejected,6,Male,1,50000
+CND0495,Candidate_495,Marketing Executive,HR,Company Website,Delhi NCR,4,B.Tech,2024-07-23,2024-06-08,75,83,88,Rejected,24,Male,1,5000
+CND0496,Candidate_496,Business Analyst,Marketing,Company Website,Pune,5,MCA,2024-12-13,2024-01-27,54,72,52,In Process,19,Male,1,5000
+CND0497,Candidate_497,Product Manager,Engineering,Employee Referral,Hyderabad,12,M.Tech,2024-10-01,2024-05-08,78,92,57,Rejected,12,Male,1,25000
+CND0498,Candidate_498,HR Manager,HR,Naukri.com,Pune,8,MBA,2024-06-18,2024-06-06,86,48,72,Rejected,22,Female,1,12000
+CND0499,Candidate_499,Software Engineer,Design,Indeed,Hyderabad,13,B.Tech,2024-01-15,2025-01-06,69,48,63,Rejected,8,Female,357,10000
+CND0500,Candidate_500,HR Manager,Product,Consultancy,Hyderabad,5,B.Tech,2024-02-29,2024-06-03,98,43,76,In Process,16,Male,95,50000
